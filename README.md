@@ -32,7 +32,7 @@ Developed a full-stack real estate web application using Spring Boot for the bac
 - `Spring Security with JWT`
 - `Spring Boot Starter Mail`
 ## Installation
-1. Clone the repository: `git clone https://github.com/gauravrathore701/EvergreenEstate.git`
+1. Clone the repository: `git clone https://github.com/AC-DevStudio/Evergreen_Estate.git`
 2. Got inside the /frontend folder and run the command `yarn` to install the dependencies
 3. Create a `.env` file and put variable `REACT_APP_API_URL=http://localhost:8080` (Note: if you host backend server in some other location than change this URL).
 4. Run the project: `yarn start`
